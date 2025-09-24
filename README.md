@@ -22,13 +22,10 @@ To write and execute an Assembly language program to perform the factorial of a 
    - Increment `i` by `1`.
 5. **Output**: Store or print the value of factorial.
 6. **End**
-
+   
 ---
-
 ## FLOWCHART
 <img width="506" height="525" alt="image" src="https://github.com/user-attachments/assets/f3b47187-6f0f-490c-8704-f2973cb2b276" />
-
-
 ---
 
 ## PROGRAM
@@ -53,11 +50,12 @@ END
 
 ```
 OUTPUT
+<img width="1591" height="712" alt="Screenshot 2025-09-24 225046" src="https://github.com/user-attachments/assets/ae78f9f2-de4f-4b0a-b015-b158ffafe7b0" />
 
-(Keil output screenshot can be inserted here)
-
----
 MANUAL CALCULATIONS
+
+<img width="565" height="346" alt="image" src="https://github.com/user-attachments/assets/0f421cad-db36-46c7-9ec8-0c7241c2c4e7" />
+
 
 ---
 
